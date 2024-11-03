@@ -1,4 +1,4 @@
-# bootcamp2
+# conference
  this is the second project of bootcamp which help to learn basics of HTML and css
 
  ## screenshots
